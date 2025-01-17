@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when building Android apps with Expo CLI: a failure during the Jetifier transform process.  The error typically arises from incompatibility between a project's dependencies and the AndroidX libraries. This example showcases the problem and provides a solution involving dependency updates and potential workarounds.

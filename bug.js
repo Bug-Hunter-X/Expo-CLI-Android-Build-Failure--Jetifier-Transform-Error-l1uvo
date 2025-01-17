@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app and involves the `jetifier` transform. The error message might mention something about a transform that failed or an issue with a specific library that isn't compatible with AndroidX.
